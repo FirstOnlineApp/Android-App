@@ -1,19 +1,19 @@
 <resources>
     <string name="app_name">FOS</string>
-    <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
-    <string name="title_activity_login">Login</string>
-    <string name="prompt_email">Email</string>
-    <string name="prompt_password">Password</string>
-    <string name="action_sign_in">Sign in</string>
-    <string name="action_forgot_password">Forgot password?</string>
-    <string name="sign_up_q">Don\'t have an account?</string>
-    <string name="sign_up_link">Create account</string>
-    <string name="action_sign_in_short">Sign in</string>
-    <string name="message_sign_in">Welcome Back,\nSign in to continue to FirstOnlineSchool</string>
+    <string name="home_title">Home</string>
+    <string name="dashboard_title">Dashboard</string>
+    <string name="notifications_title">Notifications</string>
+    <string name="login_title">Login</string>
+    <string name="login_prompt_email">Email</string>
+    <string name="login_prompt_password">Password</string>
+    <string name="login_action_sign_in">Sign in</string>
+    <string name="login_action_forgot_password">Forgot password?</string>
+    <string name="login_text_sign_up">Don\'t have an account?</string>
+    <string name="login_action_sign_up">Create account</string>
+    <string name="login_action_sign_in_short">Sign in</string>
+    <string name="login_text_greeting">Welcome Back,\nSign in to continue to FirstOnlineSchool</string>
     <string name="welcome">"Welcome !"</string>
-    <string name="invalid_username">Not a valid username</string>
-    <string name="invalid_password">Password must be >5 characters</string>
-    <string name="login_failed">"Login failed"</string>
+    <string name="login_message_invalid_username">Not a valid username</string>
+    <string name="login_message_invalid_password">Password must be >5 characters</string>
+    <string name="login_message_login_failed">"Login failed"</string>
 </resources>
